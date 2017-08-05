@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Banco de Senhas</string>
+    <string name="key">Senha</string>
+    <string name="btAce">Acessar</string>
+    <string name="dica">Dica</string>
+    <string name="apg">RESETAR</string>
+    <string name="cds">CADASTRAR</string>
+    <string name="salvar">SALVAR</string>
+    <string name="vlt">VOLTAR</string>
+    <string name="rep">REPITA A SENHA</string>
+    <string name="desc">DESCRICAO</string>
+    <string name="title_activity_cadastrar">Vamos fazer seu cadastro</string>
+    <string name="title_activity_exibicao">Exibicao</string>
+    <string name="data">Última atualização</string>
+</resources>
